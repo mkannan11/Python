@@ -1,2 +1,2 @@
-print("Hello World!")
+print("Hello!")
 '''Edited this via madhu Branch'''
